@@ -2,7 +2,7 @@
 this is Ecommerce API and test it using postman
 
 # Demo Video:
-Link to the Demo Video : 
+Link to the Demo Video : https://youtu.be/cS-C16hvGT0 
 # Key Features:
 
 - To view Products in our inventory
