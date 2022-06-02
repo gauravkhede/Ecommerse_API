@@ -21,7 +21,7 @@ app.get('/',function(req,res){
     return res.send('<h1> Please Use POSTMAN </h1>');
 })
 
-app.listen(port,function(err){
+app.listen(process.env.PORT || port,function(err){
     if(err){ console.log('Error in listening to server',err); return; }
     console.log('server is up and running on port',port);
 });
